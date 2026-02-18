@@ -3,7 +3,7 @@ A complete Guide to Install LineageOS 19.1 on Samsung Galaxy Tab A6 with microG 
 >[!WARNING]
 >This guide is for informational purposes only. I take no responsibility if your device bricks or becomes permanently damaged.
 
-These days, Samsung Galaxy Tab a6 support is expired. It suffers of heavy slow downs and now you can't install most recent apps there because the Android version installed on it is outdated. Installing a CustomOS like LineageOS on your tablet can be useful to obtain major improvements like: Better performance, control, privacy and it can live a completely new second life! <br>
+Nowadays, Samsung does not support Galaxy Tab a6 anymore. It suffers of heavy slow downs and now you can't install most recent apps there because the Android version installed on it is outdated. Installing a CustomOS like LineageOS on your tablet can be useful to obtain major improvements like: Better performance, control, privacy and it can live a completely new second life! <br>
 <br>
 LineageOS supports Samsung galaxy tab A6 only in unoffical mode. If you're trying to use BitGApps, NikGApps or MineTheGApps for Google services, you will encounter a lot of tricky troubles. <br>
 Follow this guide will help you installing it smoothly.
