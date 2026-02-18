@@ -61,7 +61,7 @@ Follow this guide will help you installing it smoothly.
     > **F-Droid** is useful if you need bunch of open source apps, go check it!
   - Enable download from external apps and install it.
   - Open **F-droid** and search for **Aurora Store**
-  - Tap **Aurora Store** and select anonymous mode to enter inside the store. <br>
+  - Tap **Aurora Store** and select **anonymous mode** to enter inside the store. <br>
 
 
 > [!NOTE]
