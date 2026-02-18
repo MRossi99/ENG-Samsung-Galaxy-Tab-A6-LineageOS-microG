@@ -13,7 +13,7 @@ Follow this guide will help you installing it smoothly.
 | :--- | :--- | :--- |
 | **Odin Tool** | [Download](https://odindownload.com/) | Version 3.13.1 |
 | **TWRP Recovery** | [Download](https://dl.twrp.me/gtaxllte/) | Last version for SM-T585 |
-| **LineageOS 19.1** | [Download](https://xdaforums.com/t/lineageos-19-1-for-sm-t580-gtaxlwifi-sm-t585-gtaxllte-sm-p580-gtanotexlwifi-and-sm-p585-gtanotexllte.4432957/page-95#post-89998855) | Per gtaxllte |
+| **LineageOS 19.1** | [Download](https://xdaforums.com/t/lineageos-19-1-for-sm-t580-gtaxlwifi-sm-t585-gtaxllte-sm-p580-gtanotexlwifi-and-sm-p585-gtanotexllte.4432957/page-95#post-89998855) | For gtaxllte |
 | **minMicroG** | [Download](https://github.com/friendlyneighborhoodshane/minmicrog_releases/releases) | Download NoGoolag | <br>
 
 **1. Inject TWRP inside the device**
