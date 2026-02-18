@@ -75,7 +75,7 @@ You can revert everything:<br>
 - Open Odin and connect your tablet in **Download mode**.
 - Inject the files **BL, AP, CP, CSC** in the correct space.
 - Press Start.
-- Leave it finish and it will reboot with an old version of Android. <br>
+- Leave it finish and it will reboot automatically with an old version of Android. <br>
 
 >[!TIP]
 >This will revert everything, it is useful if TRWP crashes or gives you irreparable errors.
