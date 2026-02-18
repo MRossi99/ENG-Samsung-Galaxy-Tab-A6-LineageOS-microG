@@ -43,7 +43,7 @@ Follow this guide will help you installing it smoothly.
     > It is possible also to transfer files through a MicroSD card, to do that just copy all files there and put it inside your tablet.
   - On your tablet, go to **Install**
   - Select **LineageOS** `.zip` and install.
-    > If you don't see any file, just reboot your device, go to TRWP settings and **Recovery**, the device will reboot but it will come back to the TWRP menu.
+    > If you don't see any file, just reboot your device, go to TWRP settings and **Recovery**, the device will reboot but it will come back to the TWRP menu.
   - Go back (◄) and install **microG** `.zip` file.
   - Now you can finally click **Reboot System**. <br>
   
