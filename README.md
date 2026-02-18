@@ -8,7 +8,7 @@ These days, Samsung Galaxy Tab a6 support is expired. It suffers of heavy slow d
 LineageOS supports Samsung galaxy tab A6 only in unoffical mode. If you're trying to use BitGApps, NikGApps or MineTheGApps for Google services, you will encounter a lot of tricky troubles. <br>
 Follow this guide will help you installing it smoothly.
 
-📥 First of all, download all of these:
+📥 First of all, download these:
 | Name | Link | Note |
 | :--- | :--- | :--- |
 | **Odin Tool** | [Download](https://odindownload.com/) | Version 3.13.1 |
