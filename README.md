@@ -18,7 +18,7 @@ Follow this guide will help you installing it smoothly.
 
 **1. Inject TWRP inside the device**
   - Go to Settings, System, tap on Build Number many times to activate **developer mode**.
-  - Go to the new developer settings and activate OEM Unlocker then turn off the tablet.
+  - Open the developer settings and activate **OEM Unlocker** then turn off the tablet.
   - Turn on while pressing `Volume down + Home + Power` simultaneously.
   - Now press `Volume up` and you will be in **Download Mode**.
   - Open **Odin** on your PC. Connect the tablet. You may see a small blue rectangle `[ID:COM]`, if you see it, it's everything fine.
