@@ -71,7 +71,7 @@ Installation is finished, now enjoy your new device with infinite open sources p
 
 **If you wanna go back to last Android version or your device doesn't work**<br>
 You can revert everything:<br>
-- Go [there](https://samfw.com/firmware/SM-T585) and download the last version of the firmware (select your language).
+- Go [there](https://samfw.com/firmware/SM-T585) and download the last version of the firmware (select your device language).
 - Open Odin and connect your tablet in **Download mode**.
 - Inject the files **BL, AP, CP, CSC** in the correct space.
 - Press Start.
