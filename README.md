@@ -37,7 +37,7 @@ Follow this guide will help you installing it smoothly.
   - Swipe to wipe and go back to TWRP main menu. <br>
   
 **3. Install LineageOS and MicroG**
-  - Connect the tablet to your PC with a cable (TWRP will recognize it as external memory unit).
+  - Connect the tablet to your PC with an USB cable (TWRP will recognize it as external memory unit).
     > Not all cables can transmit Data, some cables just recharge devices and nothing more, pay attention to choose the right cable that can do both.
   - Copy the file `.zip` of **LineageOS** and **microG** inside the tablet memory.
     > It is possible also to transfer files throught a MicroSD card, to do that just copy all files there and put it inside your tablet.
