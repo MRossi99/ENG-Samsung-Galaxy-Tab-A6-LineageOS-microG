@@ -67,7 +67,7 @@ Follow this guide will help you installing it smoothly.
 > [!NOTE]
 > For the major part of Google applications everything will work without any problems, but Youtube App is one of the few that needs other steps. [Here](https://revanced.app/) is the link if you are interested. <br>
 
-Installation is finished, now enjoy your new device with infinite open sources possibilities! <br>
+Installation is finished, now enjoy your new device with infinite open source possibilities! <br>
 
 **If you wanna go back to last Android version or your device doesn't work**<br>
 You can revert everything:<br>
