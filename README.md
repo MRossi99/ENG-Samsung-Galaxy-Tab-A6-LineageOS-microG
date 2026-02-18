@@ -25,7 +25,7 @@ Follow this guide will help you installing it smoothly.
   - Click on **AP** and select the TWRP file (`.tar`).
   - Go to Odin **Options** below and **remove the check** to "Auto Reboot". **(IMPORTANT)**
   - Press **Start** and when you see the green box **PASS** disconnect che cable.
-  - Now press simultaneously `Volume down + Home + Power` but when the screen become dark move your finger to `Volume up + Home + Power` and leave when you see the TWRP menu. <br>
+  - Now press simultaneously `Volume down + Home + Power` but when the screen become dark move your fingers to `Volume up + Home + Power` and leave when you see the TWRP menu. <br>
     >In the case you fail the last step, no worries. You can do it again, just enter in download mode, open odin and put the .tar file on AP and inject.<br>
     
 **2. Cleaning the device (Wipe)**
